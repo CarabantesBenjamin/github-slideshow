@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Esta es mi segunda página, donde les cuento que es mi segunada página. Esta página, es mi segunda 
 Utiliza la flecha hacia la izquierda para volver!
